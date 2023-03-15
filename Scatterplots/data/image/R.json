@@ -1,0 +1,3216 @@
+{
+  "10-1,677,172,470,545": {
+    "content": {
+      "status": true,
+      "x": 1.015980730606136,
+      "y": 14.577290388570624
+    },
+    "dataset": 1,
+    "level": 5,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,172,470,545",
+    "time": 11971
+  },
+  "101-1,677,173,298,228": {
+    "dataset": 3,
+    "level": 1,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,173,298,228",
+    "time": 3630
+  },
+  "102-1,677,173,302,944": {
+    "dataset": 2,
+    "level": 2,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,173,302,944",
+    "time": 3583
+  },
+  "103-1,677,173,307,613": {
+    "dataset": 3,
+    "level": 3,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,173,307,613",
+    "time": 3081
+  },
+  "104-1,677,173,311,803": {
+    "dataset": 4,
+    "level": 4,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": true,
+    "stamp": "1,677,173,311,803",
+    "time": 5431
+  },
+  "105-1,677,173,318,324": {
+    "dataset": 2,
+    "level": 5,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,173,318,324",
+    "time": 3996
+  },
+  "106-1,677,173,323,406": {
+    "dataset": 4,
+    "level": 6,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": false,
+    "stamp": "1,677,173,323,406",
+    "time": 4264
+  },
+  "107-1,677,173,328,753": {
+    "dataset": 1,
+    "level": 5,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,173,328,753",
+    "time": 4020
+  },
+  "108-1,677,173,333,857": {
+    "dataset": 3,
+    "level": 6,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,173,333,857",
+    "time": 8665
+  },
+  "109-1,677,173,343,580": {
+    "dataset": 1,
+    "level": 6,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": false,
+    "stamp": "1,677,173,343,580",
+    "time": 9246
+  },
+  "11-1,677,172,483,616": {
+    "content": {
+      "status": false,
+      "x": 88.6735748005502,
+      "y": 75.8186872661305
+    },
+    "dataset": 2,
+    "level": 6,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": false,
+    "stamp": "1,677,172,483,616",
+    "time": 6644
+  },
+  "110-1,677,173,353,897": {
+    "dataset": 1,
+    "level": 5,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,173,353,897",
+    "time": 3916
+  },
+  "111-1,677,173,358,901": {
+    "dataset": 4,
+    "level": 6,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,173,358,901",
+    "time": 3678
+  },
+  "112-1,677,173,363,666": {
+    "dataset": 2,
+    "level": 6,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,173,363,666",
+    "time": 3582
+  },
+  "113-1,677,173,368,327": {
+    "dataset": 3,
+    "level": 5,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,173,368,327",
+    "time": 3172
+  },
+  "114-1,677,173,372,577": {
+    "dataset": 1,
+    "level": 6,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": false,
+    "stamp": "1,677,173,372,577",
+    "time": 5121
+  },
+  "115-1,677,173,378,785": {
+    "dataset": 2,
+    "level": 5,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": false,
+    "stamp": "1,677,173,378,785",
+    "time": 5663
+  },
+  "116-1,677,173,385,537": {
+    "dataset": 1,
+    "level": 1,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": true,
+    "stamp": "1,677,173,385,537",
+    "time": 3895
+  },
+  "117-1,677,173,390,504": {
+    "dataset": 4,
+    "level": 2,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,173,390,504",
+    "time": 2694
+  },
+  "118-1,677,173,394,288": {
+    "dataset": 2,
+    "level": 1,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,173,394,288",
+    "time": 4485
+  },
+  "119-1,677,173,399,855": {
+    "dataset": 4,
+    "level": 1,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": false,
+    "stamp": "1,677,173,399,855",
+    "time": 5422
+  },
+  "12-1,677,172,491,341": {
+    "content": {
+      "status": false,
+      "x": 97.24351505863726,
+      "y": 27.102395651415527
+    },
+    "dataset": 3,
+    "level": 5,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": false,
+    "stamp": "1,677,172,491,341",
+    "time": 9223
+  },
+  "120-1,677,173,406,356": {
+    "dataset": 3,
+    "level": 1,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": true,
+    "stamp": "1,677,173,406,356",
+    "time": 8338
+  },
+  "121-1,677,173,415,773": {
+    "dataset": 4,
+    "level": 2,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,173,415,773",
+    "time": 7331
+  },
+  "122-1,677,173,424,189": {
+    "dataset": 4,
+    "level": 1,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,173,424,189",
+    "time": 10155
+  },
+  "123-1,677,173,435,427": {
+    "dataset": 4,
+    "level": 2,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": false,
+    "stamp": "1,677,173,435,427",
+    "time": 3864
+  },
+  "124-1,677,173,440,377": {
+    "dataset": 3,
+    "level": 1,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,173,440,377",
+    "time": 9916
+  },
+  "125-1,677,173,451,376": {
+    "dataset": 1,
+    "level": 2,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,173,451,376",
+    "time": 6085
+  },
+  "126-1,677,173,458,551": {
+    "dataset": 1,
+    "level": 3,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,173,458,551",
+    "time": 5364
+  },
+  "127-1,677,173,464,998": {
+    "dataset": 1,
+    "level": 4,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": false,
+    "stamp": "1,677,173,464,998",
+    "time": 15265
+  },
+  "128-1,677,173,481,342": {
+    "dataset": 1,
+    "level": 3,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,173,481,342",
+    "time": 4787
+  },
+  "129-1,677,173,487,216": {
+    "dataset": 1,
+    "level": 4,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": false,
+    "stamp": "1,677,173,487,216",
+    "time": 6799
+  },
+  "13-1,677,172,501,649": {
+    "content": {
+      "status": true,
+      "x": 14.547351025264122,
+      "y": 12.399437908599587
+    },
+    "dataset": 0,
+    "level": 4,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": true,
+    "stamp": "1,677,172,501,649",
+    "time": 6380
+  },
+  "130-1,677,173,495,103": {
+    "dataset": 1,
+    "level": 3,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,173,495,103",
+    "time": 6544
+  },
+  "131-1,677,173,502,732": {
+    "dataset": 4,
+    "level": 6,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": false,
+    "stamp": "1,677,173,502,732",
+    "time": 6848
+  },
+  "132-1,677,173,510,660": {
+    "dataset": 4,
+    "level": 5,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,173,510,660",
+    "time": 6529
+  },
+  "133-1,677,173,518,272": {
+    "dataset": 1,
+    "level": 6,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,173,518,272",
+    "time": 6701
+  },
+  "134-1,677,173,526,056": {
+    "dataset": 4,
+    "level": 5,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": false,
+    "stamp": "1,677,173,526,056",
+    "time": 8769
+  },
+  "135-1,677,173,535,899": {
+    "dataset": 2,
+    "level": 4,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": false,
+    "stamp": "1,677,173,535,899",
+    "time": 4478
+  },
+  "136-1,677,173,541,467": {
+    "dataset": 3,
+    "level": 3,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": false,
+    "stamp": "1,677,173,541,467",
+    "time": 7312
+  },
+  "137-1,677,173,549,866": {
+    "dataset": 3,
+    "level": 2,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,173,549,866",
+    "time": 6615
+  },
+  "138-1,677,173,557,560": {
+    "dataset": 4,
+    "level": 3,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,173,557,560",
+    "time": 12188
+  },
+  "139-1,677,173,570,832": {
+    "dataset": 1,
+    "level": 4,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,173,570,832",
+    "time": 7382
+  },
+  "14-1,677,172,509,114": {
+    "content": {
+      "status": false,
+      "x": 87.21507861115364,
+      "y": 95.13632599099815
+    },
+    "dataset": 1,
+    "level": 5,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": false,
+    "stamp": "1,677,172,509,114",
+    "time": 5815
+  },
+  "140-1,677,173,579,279": {
+    "dataset": 4,
+    "level": 5,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,173,579,279",
+    "time": 4935
+  },
+  "141-1,677,173,585,305": {
+    "dataset": 4,
+    "level": 6,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": false,
+    "stamp": "1,677,173,585,305",
+    "time": 3860
+  },
+  "142-1,677,173,590,244": {
+    "dataset": 4,
+    "level": 5,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": false,
+    "stamp": "1,677,173,590,244",
+    "time": 6822
+  },
+  "143-1,677,173,598,146": {
+    "dataset": 2,
+    "level": 4,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,173,598,146",
+    "time": 7918
+  },
+  "144-1,677,173,607,144": {
+    "dataset": 2,
+    "level": 3,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,173,607,144",
+    "time": 4019
+  },
+  "145-1,677,173,612,270": {
+    "dataset": 4,
+    "level": 4,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": false,
+    "stamp": "1,677,173,612,270",
+    "time": 7545
+  },
+  "146-1,677,173,620,901": {
+    "dataset": 4,
+    "level": 6,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,173,620,901",
+    "time": 3822
+  },
+  "147-1,677,173,625,806": {
+    "dataset": 1,
+    "level": 6,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,173,625,806",
+    "time": 7850
+  },
+  "148-1,677,173,634,740": {
+    "dataset": 4,
+    "level": 6,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,173,634,740",
+    "time": 5809
+  },
+  "149-1,677,173,641,634": {
+    "dataset": 4,
+    "level": 5,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": false,
+    "stamp": "1,677,173,641,634",
+    "time": 4112
+  },
+  "15-1,677,172,516,011": {
+    "content": {
+      "status": true,
+      "x": 14.547351025264122,
+      "y": 12.399437908599587
+    },
+    "dataset": 0,
+    "level": 4,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": true,
+    "stamp": "1,677,172,516,011",
+    "time": 6303
+  },
+  "150-1,677,173,646,830": {
+    "dataset": 2,
+    "level": 4,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,173,646,830",
+    "time": 8468
+  },
+  "151-1,677,173,656,393": {
+    "dataset": 1,
+    "level": 5,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": false,
+    "stamp": "1,677,173,656,393",
+    "time": 7906
+  },
+  "152-1,677,173,665,381": {
+    "dataset": 3,
+    "level": 4,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": false,
+    "stamp": "1,677,173,665,381",
+    "time": 3583
+  },
+  "153-1,677,173,670,049": {
+    "dataset": 2,
+    "level": 3,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,173,670,049",
+    "time": 4333
+  },
+  "154-1,677,173,675,473": {
+    "dataset": 1,
+    "level": 4,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,173,675,473",
+    "time": 9588
+  },
+  "155-1,677,173,686,137": {
+    "dataset": 1,
+    "level": 5,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,173,686,137",
+    "time": 3466
+  },
+  "156-1,677,173,690,678": {
+    "dataset": 4,
+    "level": 6,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": false,
+    "stamp": "1,677,173,690,678",
+    "time": 5219
+  },
+  "157-1,677,173,696,975": {
+    "dataset": 4,
+    "level": 5,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,173,696,975",
+    "time": 3526
+  },
+  "158-1,677,173,701,586": {
+    "dataset": 2,
+    "level": 6,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": false,
+    "stamp": "1,677,173,701,586",
+    "time": 2812
+  },
+  "159-1,677,173,705,481": {
+    "dataset": 2,
+    "level": 5,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,173,705,481",
+    "time": 4419
+  },
+  "16-1,677,172,523,397": {
+    "content": {
+      "status": true,
+      "x": 96.3533184409692,
+      "y": 67.65020876675698
+    },
+    "dataset": 2,
+    "level": 5,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,172,523,397",
+    "time": 6733
+  },
+  "160-1,677,173,710,978": {
+    "dataset": 2,
+    "level": 6,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": false,
+    "stamp": "1,677,173,710,978",
+    "time": 4036
+  },
+  "17-1,677,172,531,211": {
+    "content": {
+      "status": true,
+      "x": 91.89339864493327,
+      "y": 101.38709127764193
+    },
+    "dataset": 1,
+    "level": 1,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,172,531,211",
+    "time": 7620
+  },
+  "18-1,677,172,539,917": {
+    "content": {
+      "status": false,
+      "x": 5.340827408418384,
+      "y": 28.650332474829373
+    },
+    "dataset": 0,
+    "level": 2,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,172,539,917",
+    "time": 5826
+  },
+  "19-1,677,172,546,828": {
+    "content": {
+      "status": true,
+      "x": 14.934634945313672,
+      "y": 8.409373969828458
+    },
+    "dataset": 2,
+    "level": 1,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,172,546,828",
+    "time": 4952
+  },
+  "2-1,677,172,396,040": {
+    "content": {
+      "status": true,
+      "x": 88.48746460378587,
+      "y": 2.416861511956469
+    },
+    "dataset": 0,
+    "level": 1,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,172,396,040",
+    "time": 13704
+  },
+  "20-1,677,172,552,858": {
+    "content": {
+      "status": true,
+      "x": 12.842466164939198,
+      "y": 5.791627723967132
+    },
+    "dataset": 3,
+    "level": 2,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,172,552,858",
+    "time": 8939
+  },
+  "201-1,677,174,636,766": {
+    "dataset": 2,
+    "level": 1,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,174,636,766",
+    "time": 4401
+  },
+  "202-1,677,174,642,246": {
+    "dataset": 3,
+    "level": 2,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,174,642,246",
+    "time": 4621
+  },
+  "203-1,677,174,647,956": {
+    "dataset": 1,
+    "level": 3,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,174,647,956",
+    "time": 2411
+  },
+  "204-1,677,174,651,452": {
+    "dataset": 1,
+    "level": 4,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,174,651,452",
+    "time": 2981
+  },
+  "205-1,677,174,655,512": {
+    "dataset": 4,
+    "level": 5,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,174,655,512",
+    "time": 6658
+  },
+  "206-1,677,174,663,257": {
+    "dataset": 3,
+    "level": 6,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,174,663,257",
+    "time": 9761
+  },
+  "207-1,677,174,674,113": {
+    "dataset": 2,
+    "level": 6,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,174,674,113",
+    "time": 4039
+  },
+  "208-1,677,174,679,236": {
+    "dataset": 4,
+    "level": 5,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,174,679,236",
+    "time": 3984
+  },
+  "209-1,677,174,684,299": {
+    "dataset": 1,
+    "level": 6,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,174,684,299",
+    "time": 11086
+  },
+  "21-1,677,172,562,883": {
+    "content": {
+      "status": true,
+      "x": 6.699785526467949,
+      "y": 22.677272710321798
+    },
+    "dataset": 0,
+    "level": 3,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,172,562,883",
+    "time": 6314
+  },
+  "210-1,677,174,696,458": {
+    "dataset": 1,
+    "level": 6,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": false,
+    "stamp": "1,677,174,696,458",
+    "time": 5493
+  },
+  "211-1,677,174,703,031": {
+    "dataset": 3,
+    "level": 5,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,174,703,031",
+    "time": 9454
+  },
+  "212-1,677,174,713,569": {
+    "dataset": 4,
+    "level": 6,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,174,713,569",
+    "time": 4282
+  },
+  "213-1,677,174,718,922": {
+    "dataset": 3,
+    "level": 6,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,174,718,922",
+    "time": 6554
+  },
+  "214-1,677,174,726,556": {
+    "dataset": 2,
+    "level": 6,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": false,
+    "stamp": "1,677,174,726,556",
+    "time": 10391
+  },
+  "215-1,677,174,738,024": {
+    "dataset": 1,
+    "level": 5,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,174,738,024",
+    "time": 10023
+  },
+  "216-1,677,174,749,112": {
+    "dataset": 1,
+    "level": 1,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": true,
+    "stamp": "1,677,174,749,112",
+    "time": 5402
+  },
+  "217-1,677,174,755,600": {
+    "dataset": 1,
+    "level": 2,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,174,755,600",
+    "time": 8118
+  },
+  "218-1,677,174,764,800": {
+    "dataset": 3,
+    "level": 3,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,174,764,800",
+    "time": 8101
+  },
+  "219-1,677,174,773,982": {
+    "dataset": 4,
+    "level": 4,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,174,773,982",
+    "time": 11636
+  },
+  "22-1,677,172,570,289": {
+    "content": {
+      "status": true,
+      "x": 91.84604081853433,
+      "y": 14.115818348281117
+    },
+    "dataset": 4,
+    "level": 4,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,172,570,289",
+    "time": 7358
+  },
+  "220-1,677,174,786,703": {
+    "dataset": 2,
+    "level": 5,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": false,
+    "stamp": "1,677,174,786,703",
+    "time": 9082
+  },
+  "221-1,677,174,796,864": {
+    "dataset": 3,
+    "level": 4,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": true,
+    "stamp": "1,677,174,796,864",
+    "time": 6635
+  },
+  "222-1,677,174,804,581": {
+    "dataset": 1,
+    "level": 5,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,174,804,581",
+    "time": 6604
+  },
+  "223-1,677,174,812,262": {
+    "dataset": 4,
+    "level": 6,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,174,812,262",
+    "time": 8271
+  },
+  "224-1,677,174,821,621": {
+    "dataset": 4,
+    "level": 6,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": true,
+    "stamp": "1,677,174,821,621",
+    "time": 13238
+  },
+  "225-1,677,174,835,950": {
+    "dataset": 1,
+    "level": 6,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,174,835,950",
+    "time": 8477
+  },
+  "226-1,677,174,845,512": {
+    "dataset": 4,
+    "level": 6,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,174,845,512",
+    "time": 8195
+  },
+  "227-1,677,174,854,792": {
+    "dataset": 4,
+    "level": 6,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,174,854,792",
+    "time": 2622
+  },
+  "228-1,677,174,858,498": {
+    "dataset": 3,
+    "level": 6,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,174,858,498",
+    "time": 5037
+  },
+  "229-1,677,174,864,612": {
+    "dataset": 1,
+    "level": 6,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,174,864,612",
+    "time": 11447
+  },
+  "23-1,677,172,578,727": {
+    "content": {
+      "status": true,
+      "x": 86.55697662303305,
+      "y": 7.842824333418449
+    },
+    "dataset": 0,
+    "level": 5,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": true,
+    "stamp": "1,677,172,578,727",
+    "time": 10118
+  },
+  "230-1,677,174,877,140": {
+    "dataset": 2,
+    "level": 6,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": false,
+    "stamp": "1,677,174,877,140",
+    "time": 7729
+  },
+  "231-1,677,174,885,958": {
+    "dataset": 2,
+    "level": 6,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,174,885,958",
+    "time": 9995
+  },
+  "232-1,677,174,897,012": {
+    "dataset": 2,
+    "level": 5,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,174,897,012",
+    "time": 5896
+  },
+  "233-1,677,174,903,998": {
+    "dataset": 3,
+    "level": 6,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,174,903,998",
+    "time": 4867
+  },
+  "234-1,677,174,909,947": {
+    "dataset": 2,
+    "level": 6,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,174,909,947",
+    "time": 1617
+  },
+  "235-1,677,174,912,645": {
+    "dataset": 3,
+    "level": 5,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": false,
+    "stamp": "1,677,174,912,645",
+    "time": 4854
+  },
+  "236-1,677,174,918,583": {
+    "dataset": 1,
+    "level": 4,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,174,918,583",
+    "time": 5036
+  },
+  "237-1,677,174,924,701": {
+    "dataset": 4,
+    "level": 3,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": true,
+    "stamp": "1,677,174,924,701",
+    "time": 5581
+  },
+  "238-1,677,174,930,661": {
+    "dataset": 2,
+    "level": 4,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": false,
+    "stamp": "1,677,174,930,661",
+    "time": 17306
+  },
+  "239-1,677,174,949,048": {
+    "dataset": 4,
+    "level": 3,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,174,949,048",
+    "time": 9421
+  },
+  "24-1,677,172,589,935": {
+    "content": {
+      "status": true,
+      "x": 99.17684829643416,
+      "y": 33.56649484651858
+    },
+    "dataset": 1,
+    "level": 6,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,172,589,935",
+    "time": 9130
+  },
+  "240-1,677,174,959,549": {
+    "dataset": 4,
+    "level": 4,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,174,959,549",
+    "time": 9320
+  },
+  "241-1,677,174,969,951": {
+    "dataset": 3,
+    "level": 5,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": true,
+    "stamp": "1,677,174,969,951",
+    "time": 5577
+  },
+  "242-1,677,174,976,611": {
+    "dataset": 2,
+    "level": 6,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": false,
+    "stamp": "1,677,174,976,611",
+    "time": 11350
+  },
+  "243-1,677,174,989,041": {
+    "dataset": 3,
+    "level": 5,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,174,989,041",
+    "time": 8086
+  },
+  "244-1,677,174,998,219": {
+    "dataset": 1,
+    "level": 6,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": false,
+    "stamp": "1,677,174,998,219",
+    "time": 6825
+  },
+  "245-1,677,175,006,130": {
+    "dataset": 4,
+    "level": 5,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,175,006,130",
+    "time": 9364
+  },
+  "246-1,677,175,016,578": {
+    "dataset": 1,
+    "level": 6,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": false,
+    "stamp": "1,677,175,016,578",
+    "time": 381
+  },
+  "247-1,677,175,018,038": {
+    "dataset": 1,
+    "level": 5,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,175,018,038",
+    "time": 5055
+  },
+  "248-1,677,175,024,171": {
+    "dataset": 2,
+    "level": 6,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": false,
+    "stamp": "1,677,175,024,171",
+    "time": 15261
+  },
+  "249-1,677,175,040,515": {
+    "dataset": 2,
+    "level": 5,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,175,040,515",
+    "time": 10949
+  },
+  "25-1,677,172,600,150": {
+    "content": {
+      "status": true,
+      "x": 99.17684829643416,
+      "y": 33.56649484651858
+    },
+    "dataset": 1,
+    "level": 6,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": true,
+    "stamp": "1,677,172,600,150",
+    "time": 12999
+  },
+  "250-1,677,175,052,555": {
+    "dataset": 2,
+    "level": 4,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": false,
+    "stamp": "1,677,175,052,555",
+    "time": 17364
+  },
+  "251-1,677,175,070,996": {
+    "dataset": 2,
+    "level": 3,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": false,
+    "stamp": "1,677,175,070,996",
+    "time": 5893
+  },
+  "252-1,677,175,077,975": {
+    "dataset": 3,
+    "level": 2,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,175,077,975",
+    "time": 10168
+  },
+  "253-1,677,175,089,232": {
+    "dataset": 2,
+    "level": 3,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,175,089,232",
+    "time": 6175
+  },
+  "254-1,677,175,096,489": {
+    "dataset": 3,
+    "level": 2,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": false,
+    "stamp": "1,677,175,096,489",
+    "time": 5901
+  },
+  "255-1,677,175,103,475": {
+    "dataset": 1,
+    "level": 1,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,175,103,475",
+    "time": 13644
+  },
+  "256-1,677,175,118,204": {
+    "dataset": 4,
+    "level": 1,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,175,118,204",
+    "time": 17663
+  },
+  "257-1,677,175,136,946": {
+    "dataset": 2,
+    "level": 2,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,175,136,946",
+    "time": 14038
+  },
+  "258-1,677,175,152,061": {
+    "dataset": 1,
+    "level": 3,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": false,
+    "stamp": "1,677,175,152,061",
+    "time": 8349
+  },
+  "259-1,677,175,161,497": {
+    "dataset": 3,
+    "level": 2,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": false,
+    "stamp": "1,677,175,161,497",
+    "time": 8093
+  },
+  "26-1,677,172,614,240": {
+    "content": {
+      "status": false,
+      "x": 90.47230387710282,
+      "y": 24.193167205574255
+    },
+    "dataset": 0,
+    "level": 6,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": false,
+    "stamp": "1,677,172,614,240",
+    "time": 6424
+  },
+  "260-1,677,175,170,673": {
+    "dataset": 3,
+    "level": 1,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,175,170,673",
+    "time": 6638
+  },
+  "27-1,677,172,621,752": {
+    "content": {
+      "status": true,
+      "x": 86.55697662303305,
+      "y": 7.842824333418449
+    },
+    "dataset": 0,
+    "level": 5,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,172,621,752",
+    "time": 11711
+  },
+  "28-1,677,172,634,550": {
+    "content": {
+      "status": false,
+      "x": 9.518726281505298,
+      "y": 16.570724235659696
+    },
+    "dataset": 4,
+    "level": 6,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,172,634,550",
+    "time": 6131
+  },
+  "29-1,677,172,641,770": {
+    "content": {
+      "status": false,
+      "x": 89.26682738969913,
+      "y": 15.152241582168095
+    },
+    "dataset": 4,
+    "level": 5,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": false,
+    "stamp": "1,677,172,641,770",
+    "time": 5344
+  },
+  "3-1,677,172,410,831": {
+    "content": {
+      "status": true,
+      "x": 3.154563222551738,
+      "y": 16.227710277061497
+    },
+    "dataset": 4,
+    "level": 2,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,172,410,831",
+    "time": 6712
+  },
+  "30-1,677,172,648,195": {
+    "content": {
+      "status": true,
+      "x": 14.547351025264122,
+      "y": 12.399437908599587
+    },
+    "dataset": 0,
+    "level": 4,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,172,648,195",
+    "time": 5819
+  },
+  "31-1,677,172,655,096": {
+    "content": {
+      "status": false,
+      "x": 97.24351505863726,
+      "y": 27.102395651415527
+    },
+    "dataset": 3,
+    "level": 5,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": false,
+    "stamp": "1,677,172,655,096",
+    "time": 13734
+  },
+  "32-1,677,172,669,916": {
+    "content": {
+      "status": false,
+      "x": 14.350488201294137,
+      "y": 86.47070479870018
+    },
+    "dataset": 1,
+    "level": 6,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": false,
+    "stamp": "1,677,172,669,916",
+    "time": 8834
+  },
+  "33-1,677,172,679,830": {
+    "content": {
+      "status": false,
+      "x": 89.26682738969913,
+      "y": 15.152241582168095
+    },
+    "dataset": 4,
+    "level": 5,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,172,679,830",
+    "time": 10443
+  },
+  "34-1,677,172,691,361": {
+    "content": {
+      "status": true,
+      "x": 91.84604081853433,
+      "y": 14.115818348281117
+    },
+    "dataset": 4,
+    "level": 4,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,172,691,361",
+    "time": 8162
+  },
+  "35-1,677,172,700,618": {
+    "content": {
+      "status": true,
+      "x": 96.3533184409692,
+      "y": 67.65020876675698
+    },
+    "dataset": 2,
+    "level": 5,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,172,700,618",
+    "time": 7273
+  },
+  "36-1,677,172,708,982": {
+    "content": {
+      "status": true,
+      "x": 99.17684829643416,
+      "y": 33.56649484651858
+    },
+    "dataset": 1,
+    "level": 6,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": true,
+    "stamp": "1,677,172,708,982",
+    "time": 5704
+  },
+  "37-1,677,172,715,763": {
+    "content": {
+      "status": false,
+      "x": 9.518726281505298,
+      "y": 16.570724235659696
+    },
+    "dataset": 4,
+    "level": 6,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": false,
+    "stamp": "1,677,172,715,763",
+    "time": 7795
+  },
+  "38-1,677,172,724,645": {
+    "content": {
+      "status": false,
+      "x": 89.26682738969913,
+      "y": 15.152241582168095
+    },
+    "dataset": 4,
+    "level": 5,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": false,
+    "stamp": "1,677,172,724,645",
+    "time": 5596
+  },
+  "39-1,677,172,731,320": {
+    "content": {
+      "status": true,
+      "x": 13.993064463986178,
+      "y": 95.82004166634232
+    },
+    "dataset": 2,
+    "level": 4,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": true,
+    "stamp": "1,677,172,731,320",
+    "time": 5252
+  },
+  "4-1,677,172,418,627": {
+    "content": {
+      "status": true,
+      "x": 6.699785526467949,
+      "y": 22.677272710321798
+    },
+    "dataset": 0,
+    "level": 3,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,172,418,627",
+    "time": 6298
+  },
+  "40-1,677,172,737,657": {
+    "content": {
+      "status": false,
+      "x": 89.26682738969913,
+      "y": 15.152241582168095
+    },
+    "dataset": 4,
+    "level": 5,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": false,
+    "stamp": "1,677,172,737,657",
+    "time": 7384
+  },
+  "401-1,677,175,622,539": {
+    "answer": ".5",
+    "correlationValue": 0.697,
+    "dataset": 12,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": "0.20",
+    "stamp": "1,677,175,622,539",
+    "time": 11359
+  },
+  "402-1,677,175,634,977": {
+    "answer": ".2",
+    "correlationValue": 0.598,
+    "dataset": 16,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": "0.40",
+    "stamp": "1,677,175,634,977",
+    "time": 9706
+  },
+  "403-1,677,175,645,767": {
+    "answer": ".5",
+    "correlationValue": -0.604,
+    "dataset": 17,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": "0.10",
+    "stamp": "1,677,175,645,767",
+    "time": 33165
+  },
+  "404-1,677,175,680,018": {
+    "answer": ".5",
+    "correlationValue": 0.853,
+    "dataset": 6,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": "0.35",
+    "stamp": "1,677,175,680,018",
+    "time": 39971
+  },
+  "405-1,677,175,721,072": {
+    "answer": ".55",
+    "correlationValue": -0.797,
+    "dataset": 9,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": "0.25",
+    "stamp": "1,677,175,721,072",
+    "time": 8276
+  },
+  "406-1,677,175,730,436": {
+    "answer": ".6",
+    "correlationValue": 0.802,
+    "dataset": 8,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": "0.20",
+    "stamp": "1,677,175,730,436",
+    "time": 7397
+  },
+  "407-1,677,175,738,913": {
+    "answer": ".45",
+    "correlationValue": 0.649,
+    "dataset": 14,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": "0.20",
+    "stamp": "1,677,175,738,913",
+    "time": 9485
+  },
+  "408-1,677,175,749,494": {
+    "answer": ".45",
+    "correlationValue": 0.501,
+    "dataset": 20,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": "0.05",
+    "stamp": "1,677,175,749,494",
+    "time": 8188
+  },
+  "409-1,677,175,758,764": {
+    "answer": ".8",
+    "correlationValue": -0.899,
+    "dataset": 5,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": "0.10",
+    "stamp": "1,677,175,758,764",
+    "time": 7093
+  },
+  "41-1,677,172,746,112": {
+    "content": {
+      "status": false,
+      "x": 10.445021678625256,
+      "y": 84.52033733895968
+    },
+    "dataset": 3,
+    "level": 4,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": false,
+    "stamp": "1,677,172,746,112",
+    "time": 9677
+  },
+  "410-1,677,175,766,948": {
+    "answer": ".55",
+    "correlationValue": 0.548,
+    "dataset": 18,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": "0.00",
+    "stamp": "1,677,175,766,948",
+    "time": 8677
+  },
+  "411-1,677,175,776,707": {
+    "answer": ".8",
+    "correlationValue": 0.953,
+    "dataset": 2,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": "0.15",
+    "stamp": "1,677,175,776,707",
+    "time": 6816
+  },
+  "412-1,677,175,784,613": {
+    "answer": ".5",
+    "correlationValue": -0.546,
+    "dataset": 19,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": "0.05",
+    "stamp": "1,677,175,784,613",
+    "time": 7230
+  },
+  "413-1,677,175,792,934": {
+    "answer": ".45",
+    "correlationValue": 0.649,
+    "dataset": 14,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": "0.20",
+    "stamp": "1,677,175,792,934",
+    "time": 5756
+  },
+  "414-1,677,175,799,777": {
+    "answer": ".6",
+    "correlationValue": 0.752,
+    "dataset": 10,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": "0.15",
+    "stamp": "1,677,175,799,777",
+    "time": 5864
+  },
+  "415-1,677,175,806,712": {
+    "answer": ".75",
+    "correlationValue": -0.899,
+    "dataset": 5,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": "0.15",
+    "stamp": "1,677,175,806,712",
+    "time": 6795
+  },
+  "416-1,677,175,814,596": {
+    "answer": ".85",
+    "correlationValue": -0.949,
+    "dataset": 3,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": "0.10",
+    "stamp": "1,677,175,814,596",
+    "time": 8527
+  },
+  "417-1,677,175,824,193": {
+    "answer": ".7",
+    "correlationValue": -0.851,
+    "dataset": 7,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": "0.15",
+    "stamp": "1,677,175,824,193",
+    "time": 5138
+  },
+  "418-1,677,175,830,406": {
+    "answer": ".55",
+    "correlationValue": -0.651,
+    "dataset": 15,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": "0.10",
+    "stamp": "1,677,175,830,406",
+    "time": 9127
+  },
+  "419-1,677,175,840,620": {
+    "answer": ".45",
+    "correlationValue": 0.45,
+    "dataset": 22,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": "0.00",
+    "stamp": "1,677,175,840,620",
+    "time": 9628
+  },
+  "42-1,677,172,756,870": {
+    "content": {
+      "status": true,
+      "x": 6.699785526467949,
+      "y": 22.677272710321798
+    },
+    "dataset": 0,
+    "level": 3,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": true,
+    "stamp": "1,677,172,756,870",
+    "time": 6786
+  },
+  "420-1,677,175,851,340": {
+    "answer": ".7",
+    "correlationValue": 0.752,
+    "dataset": 10,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": "0.05",
+    "stamp": "1,677,175,851,340",
+    "time": 12891
+  },
+  "421-1,677,175,865,313": {
+    "answer": ".5",
+    "correlationValue": 0.548,
+    "dataset": 18,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": "0.05",
+    "stamp": "1,677,175,865,313",
+    "time": 12868
+  },
+  "422-1,677,175,879,257": {
+    "answer": ".6",
+    "correlationValue": -0.752,
+    "dataset": 11,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": "0.15",
+    "stamp": "1,677,175,879,257",
+    "time": 5778
+  },
+  "423-1,677,175,886,125": {
+    "answer": ".55",
+    "correlationValue": 0.501,
+    "dataset": 20,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": "0.05",
+    "stamp": "1,677,175,886,125",
+    "time": 7739
+  },
+  "424-1,677,175,894,949": {
+    "answer": ".8",
+    "correlationValue": 0.953,
+    "dataset": 2,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": "0.15",
+    "stamp": "1,677,175,894,949",
+    "time": 7165
+  },
+  "425-1,677,175,903,202": {
+    "answer": ".7",
+    "correlationValue": -0.797,
+    "dataset": 9,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": "0.10",
+    "stamp": "1,677,175,903,202",
+    "time": 5630
+  },
+  "426-1,677,175,909,917": {
+    "answer": ".65",
+    "correlationValue": -0.851,
+    "dataset": 7,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": "0.20",
+    "stamp": "1,677,175,909,917",
+    "time": 6014
+  },
+  "427-1,677,175,917,020": {
+    "answer": "1.00",
+    "correlationValue": 0.999,
+    "dataset": 0,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": "0.00",
+    "stamp": "1,677,175,917,020",
+    "time": 7512
+  },
+  "428-1,677,175,925,612": {
+    "answer": ".6",
+    "correlationValue": 0.598,
+    "dataset": 16,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": "0.00",
+    "stamp": "1,677,175,925,612",
+    "time": 4619
+  },
+  "429-1,677,175,931,308": {
+    "answer": ".85",
+    "correlationValue": 0.953,
+    "dataset": 2,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": "0.10",
+    "stamp": "1,677,175,931,308",
+    "time": 8785
+  },
+  "43-1,677,172,764,749": {
+    "content": {
+      "status": true,
+      "x": 13.993064463986178,
+      "y": 95.82004166634232
+    },
+    "dataset": 2,
+    "level": 4,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,172,764,749",
+    "time": 5691
+  },
+  "430-1,677,175,941,184": {
+    "answer": ".7",
+    "correlationValue": 0.853,
+    "dataset": 6,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": "0.15",
+    "stamp": "1,677,175,941,184",
+    "time": 9376
+  },
+  "431-1,677,175,951,639": {
+    "answer": ".65",
+    "correlationValue": -0.797,
+    "dataset": 9,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": "0.15",
+    "stamp": "1,677,175,951,639",
+    "time": 8533
+  },
+  "432-1,677,175,961,254": {
+    "answer": ".8",
+    "correlationValue": 0.953,
+    "dataset": 2,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": "0.15",
+    "stamp": "1,677,175,961,254",
+    "time": 6503
+  },
+  "433-1,677,175,968,844": {
+    "answer": ".95",
+    "correlationValue": -0.996,
+    "dataset": 1,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": "0.05",
+    "stamp": "1,677,175,968,844",
+    "time": 6111
+  },
+  "434-1,677,175,976,048": {
+    "answer": ".99",
+    "correlationValue": 0.999,
+    "dataset": 0,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": "0.01",
+    "stamp": "1,677,175,976,048",
+    "time": 7561
+  },
+  "435-1,677,175,984,692": {
+    "answer": ".75",
+    "correlationValue": 0.752,
+    "dataset": 10,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": "0.00",
+    "stamp": "1,677,175,984,692",
+    "time": 6289
+  },
+  "436-1,677,175,992,069": {
+    "answer": ".5",
+    "correlationValue": 0.649,
+    "dataset": 14,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": "0.15",
+    "stamp": "1,677,175,992,069",
+    "time": 5612
+  },
+  "437-1,677,175,998,760": {
+    "answer": ".65",
+    "correlationValue": 0.899,
+    "dataset": 4,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": "0.25",
+    "stamp": "1,677,175,998,760",
+    "time": 5454
+  },
+  "438-1,677,176,005,299": {
+    "answer": "1.00",
+    "correlationValue": 0.999,
+    "dataset": 0,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": "0.00",
+    "stamp": "1,677,176,005,299",
+    "time": 7369
+  },
+  "439-1,677,176,013,747": {
+    "answer": ".6",
+    "correlationValue": 0.752,
+    "dataset": 10,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": "0.15",
+    "stamp": "1,677,176,013,747",
+    "time": 5451
+  },
+  "44-1,677,172,771,532": {
+    "content": {
+      "status": false,
+      "x": 9.020229403262773,
+      "y": 85.16615420882403
+    },
+    "dataset": 0,
+    "level": 5,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": false,
+    "stamp": "1,677,172,771,532",
+    "time": 7393
+  },
+  "440-1,677,176,020,277": {
+    "answer": ".75",
+    "correlationValue": -0.949,
+    "dataset": 3,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": "0.20",
+    "stamp": "1,677,176,020,277",
+    "time": 8396
+  },
+  "441-1,677,176,029,755": {
+    "answer": ".75",
+    "correlationValue": 0.953,
+    "dataset": 2,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": "0.20",
+    "stamp": "1,677,176,029,755",
+    "time": 7117
+  },
+  "442-1,677,176,037,962": {
+    "answer": ".45",
+    "correlationValue": 0.45,
+    "dataset": 22,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": "0.00",
+    "stamp": "1,677,176,037,962",
+    "time": 6598
+  },
+  "443-1,677,176,045,641": {
+    "answer": ".99",
+    "correlationValue": 0.999,
+    "dataset": 0,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": "0.01",
+    "stamp": "1,677,176,045,641",
+    "time": 8498
+  },
+  "444-1,677,176,055,225": {
+    "answer": ".95",
+    "correlationValue": -0.996,
+    "dataset": 1,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": "0.05",
+    "stamp": "1,677,176,055,225",
+    "time": 7330
+  },
+  "445-1,677,176,063,638": {
+    "answer": ".7",
+    "correlationValue": 0.853,
+    "dataset": 6,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": "0.15",
+    "stamp": "1,677,176,063,638",
+    "time": 12917
+  },
+  "446-1,677,176,077,650": {
+    "answer": ".8",
+    "correlationValue": -0.949,
+    "dataset": 3,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": "0.15",
+    "stamp": "1,677,176,077,650",
+    "time": 8223
+  },
+  "447-1,677,176,086,962": {
+    "answer": ".6",
+    "correlationValue": -0.851,
+    "dataset": 7,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": "0.25",
+    "stamp": "1,677,176,086,962",
+    "time": 8504
+  },
+  "448-1,677,176,096,559": {
+    "answer": ".55",
+    "correlationValue": 0.697,
+    "dataset": 12,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": "0.15",
+    "stamp": "1,677,176,096,559",
+    "time": 6571
+  },
+  "449-1,677,176,104,214": {
+    "answer": ".45",
+    "correlationValue": -0.504,
+    "dataset": 21,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": "0.05",
+    "stamp": "1,677,176,104,214",
+    "time": 6384
+  },
+  "45-1,677,172,780,008": {
+    "content": {
+      "status": false,
+      "x": 10.445021678625256,
+      "y": 84.52033733895968
+    },
+    "dataset": 3,
+    "level": 4,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": false,
+    "stamp": "1,677,172,780,008",
+    "time": 12063
+  },
+  "451-1,677,176,112,981": {
+    "answer": ".7",
+    "correlationValue": -0.899,
+    "dataset": 5,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": "0.20",
+    "stamp": "1,677,176,112,981",
+    "time": 10649
+  },
+  "452-1,677,176,124,712": {
+    "answer": ".6",
+    "correlationValue": -0.651,
+    "dataset": 15,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": "0.05",
+    "stamp": "1,677,176,124,712",
+    "time": 7916
+  },
+  "453-1,677,176,133,715": {
+    "answer": ".8",
+    "correlationValue": -0.949,
+    "dataset": 3,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": "0.15",
+    "stamp": "1,677,176,133,715",
+    "time": 6483
+  },
+  "454-1,677,176,141,280": {
+    "answer": ".7",
+    "correlationValue": 0.802,
+    "dataset": 8,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": "0.10",
+    "stamp": "1,677,176,141,280",
+    "time": 21695
+  },
+  "455-1,677,176,164,065": {
+    "answer": ".5",
+    "correlationValue": 0.598,
+    "dataset": 16,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": "0.10",
+    "stamp": "1,677,176,164,065",
+    "time": 8362
+  },
+  "456-1,677,176,173,520": {
+    "answer": ".75",
+    "correlationValue": 0.899,
+    "dataset": 4,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": "0.15",
+    "stamp": "1,677,176,173,520",
+    "time": 31427
+  },
+  "457-1,677,176,206,035": {
+    "answer": ".6",
+    "correlationValue": -0.752,
+    "dataset": 11,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": "0.15",
+    "stamp": "1,677,176,206,035",
+    "time": 5512
+  },
+  "459-1,677,176,219,334": {
+    "answer": ".7",
+    "correlationValue": 0.752,
+    "dataset": 10,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": "0.05",
+    "stamp": "1,677,176,219,334",
+    "time": 9148
+  },
+  "46-1,677,172,793,174": {
+    "content": {
+      "status": true,
+      "x": 6.699785526467949,
+      "y": 22.677272710321798
+    },
+    "dataset": 0,
+    "level": 3,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,172,793,174",
+    "time": 7917
+  },
+  "460-1,677,176,229,566": {
+    "answer": ".7",
+    "correlationValue": 0.752,
+    "dataset": 10,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": "0.05",
+    "stamp": "1,677,176,229,566",
+    "time": 8547
+  },
+  "47-1,677,172,802,178": {
+    "content": {
+      "status": true,
+      "x": 93.66996821776249,
+      "y": 80.68915933777943
+    },
+    "dataset": 4,
+    "level": 6,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": true,
+    "stamp": "1,677,172,802,178",
+    "time": 8245
+  },
+  "48-1,677,172,811,513": {
+    "content": {
+      "status": true,
+      "x": 93.66996821776249,
+      "y": 80.68915933777943
+    },
+    "dataset": 4,
+    "level": 6,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,172,811,513",
+    "time": 9261
+  },
+  "49-1,677,172,821,846": {
+    "content": {
+      "status": false,
+      "x": 88.6735748005502,
+      "y": 75.8186872661305
+    },
+    "dataset": 2,
+    "level": 6,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": false,
+    "stamp": "1,677,172,821,846",
+    "time": 10195
+  },
+  "5-1,677,172,426,010": {
+    "content": {
+      "status": true,
+      "x": 91.84604081853433,
+      "y": 14.115818348281117
+    },
+    "dataset": 4,
+    "level": 4,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,172,426,010",
+    "time": 5301
+  },
+  "50-1,677,172,833,129": {
+    "content": {
+      "status": false,
+      "x": 87.21507861115364,
+      "y": 95.13632599099815
+    },
+    "dataset": 1,
+    "level": 5,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": false,
+    "stamp": "1,677,172,833,129",
+    "time": 7644
+  },
+  "51-1,677,172,841,848": {
+    "content": {
+      "status": true,
+      "x": 14.547351025264122,
+      "y": 12.399437908599587
+    },
+    "dataset": 0,
+    "level": 4,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,172,841,848",
+    "time": 5728
+  },
+  "52-1,677,172,848,655": {
+    "content": {
+      "status": true,
+      "x": 86.55697662303305,
+      "y": 7.842824333418449
+    },
+    "dataset": 0,
+    "level": 5,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": true,
+    "stamp": "1,677,172,848,655",
+    "time": 7768
+  },
+  "53-1,677,172,857,510": {
+    "content": {
+      "status": false,
+      "x": 90.47230387710282,
+      "y": 24.193167205574255
+    },
+    "dataset": 0,
+    "level": 6,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": false,
+    "stamp": "1,677,172,857,510",
+    "time": 10994
+  },
+  "54-1,677,172,869,600": {
+    "content": {
+      "status": false,
+      "x": 97.24351505863726,
+      "y": 27.102395651415527
+    },
+    "dataset": 3,
+    "level": 5,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": false,
+    "stamp": "1,677,172,869,600",
+    "time": 8620
+  },
+  "55-1,677,172,879,299": {
+    "content": {
+      "status": false,
+      "x": 10.445021678625256,
+      "y": 84.52033733895968
+    },
+    "dataset": 3,
+    "level": 4,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": false,
+    "stamp": "1,677,172,879,299",
+    "time": 10855
+  },
+  "56-1,677,172,891,238": {
+    "content": {
+      "status": true,
+      "x": 92.91291607012124,
+      "y": 16.565861243951105
+    },
+    "dataset": 1,
+    "level": 3,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": true,
+    "stamp": "1,677,172,891,238",
+    "time": 10316
+  },
+  "57-1,677,172,902,644": {
+    "content": {
+      "status": true,
+      "x": 97.87149402782038,
+      "y": 22.667131790747643
+    },
+    "dataset": 3,
+    "level": 4,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": true,
+    "stamp": "1,677,172,902,644",
+    "time": 10544
+  },
+  "58-1,677,172,914,271": {
+    "content": {
+      "status": false,
+      "x": 9.020229403262773,
+      "y": 85.16615420882403
+    },
+    "dataset": 0,
+    "level": 5,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,172,914,271",
+    "time": 8666
+  },
+  "59-1,677,172,924,027": {
+    "content": {
+      "status": false,
+      "x": 13.915158746322533,
+      "y": 13.959963489240238
+    },
+    "dataset": 1,
+    "level": 4,
+    "ratio": 0,
+    "ratioContent": {
+      "height": "424px",
+      "width": "424px"
+    },
+    "result": false,
+    "stamp": "1,677,172,924,027",
+    "time": 9396
+  },
+  "6-1,677,172,432,395": {
+    "content": {
+      "status": false,
+      "x": 89.26682738969913,
+      "y": 15.152241582168095
+    },
+    "dataset": 4,
+    "level": 5,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": false,
+    "stamp": "1,677,172,432,395",
+    "time": 8066
+  },
+  "60-1,677,172,934,511": {
+    "content": {
+      "status": true,
+      "x": 85.18224582931971,
+      "y": 93.56844705065026
+    },
+    "dataset": 4,
+    "level": 3,
+    "ratio": 3,
+    "ratioContent": {
+      "height": "520px",
+      "width": "346px"
+    },
+    "result": true,
+    "stamp": "1,677,172,934,511",
+    "time": 8409
+  },
+  "61-1,677,172,943,999": {
+    "content": {
+      "status": true,
+      "x": 97.84756603091422,
+      "y": 74.04605840709249
+    },
+    "dataset": 1,
+    "level": 4,
+    "ratio": 1,
+    "ratioContent": {
+      "height": "300px",
+      "width": "600px"
+    },
+    "result": true,
+    "stamp": "1,677,172,943,999",
+    "time": 10822
+  },
+  "7-1,677,172,441,548": {
+    "content": {
+      "status": true,
+      "x": 14.547351025264122,
+      "y": 12.399437908599587
+    },
+    "dataset": 0,
+    "level": 4,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,172,441,548",
+    "time": 7249
+  },
+  "8-1,677,172,449,885": {
+    "content": {
+      "status": false,
+      "x": 97.24351505863726,
+      "y": 27.102395651415527
+    },
+    "dataset": 3,
+    "level": 5,
+    "ratio": 2,
+    "ratioContent": {
+      "height": "600px",
+      "width": "300px"
+    },
+    "result": false,
+    "stamp": "1,677,172,449,885",
+    "time": 8563
+  },
+  "9-1,677,172,459,536": {
+    "content": {
+      "status": true,
+      "x": 91.84604081853433,
+      "y": 14.115818348281117
+    },
+    "dataset": 4,
+    "level": 4,
+    "ratio": 4,
+    "ratioContent": {
+      "height": "346px",
+      "width": "520px"
+    },
+    "result": true,
+    "stamp": "1,677,172,459,536",
+    "time": 9930
+  }
+}
