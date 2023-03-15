@@ -1,0 +1,140 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Testing - Part 1</title>
+
+  <!-- Load CSS libraries -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<div class="container-fluid">
+  <div class="row justify-content-center ">
+    <div class="col-10" >
+      <div class="card">
+        <div class="card-header">
+          Test 4
+        </div>
+        <div class="card-body">
+          <h5 class="card-title" style="font-style: italic">For training</h5>
+          <h5 class="card-title">Identify Correlation</h5>
+          <p class="card-text">
+            What is the correlation in this scatterplot? (Absolute value)
+          </p>
+          <p class="card-text">
+            (The answer should be in the ranges: (0.45, 1.00). Give your answer to 2 decimal places(0.01))
+          </p>
+
+          <div class="chart-container" id="chartContainer" style="position: relative; height:400px; width:400px">
+            <canvas id="myChart"></canvas>
+          </div>
+          <p class="card-text" id="show" style="margin-top: 30px;">
+          </p>
+          <a href="test4-l1.html" class="btn btn-primary">Start Test</a>
+        </div>
+
+        <div class="card-footer text-muted">
+          Note:
+          <li> This study requires Chrome, Firefox, or Edge.</li>
+          <li> Please maximize your browser window for the entire period of this study.</li>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- Load JS libraries: jQuery, bootstrap, D3 -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+<!-- d3 -->
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="../js/firebase.js" type="module"></script>
+<script src="../js/helper4.js"></script>
+
+<script>
+
+  let start = Date.now();
+
+  const dataN = 11;
+
+  const ratioN = 3;
+
+  // config
+  const config = {
+    type: 'scatter',
+    data: dataTask4Level1[dataN],
+    options: {
+      scales: {
+        x: {
+          grid: {
+            display: false,
+          },
+          type: 'linear',
+          position: 'bottom',
+        },
+        y: {
+          grid: {
+            display: false,
+          },
+        },
+      },
+      events: [],
+      animation: false,
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          display: false
+        }
+      }
+
+    }
+  }
+
+  // render init block
+
+  const ctx = document.getElementById('myChart')
+
+  const myChart = new Chart(
+          ctx,
+          config
+  );
+
+  document.getElementById('chartContainer').style.width = ratios[ratioN].width;
+  document.getElementById('chartContainer').style.height = ratios[ratioN].height;
+
+
+  let correlation = dataTask4Level1[dataN].datasets[0].data[0].correlation
+  console.log(correlation)
+
+  document.getElementById('show').innerHTML = "The difference is: " + parseFloat(window.location.hash.substring(1));
+
+
+
+  function submitFunction() {
+
+
+    let inputValue = document.getElementById("input-value").value;
+
+
+    let diff = Math.abs(Math.abs(parseFloat(inputValue)) - Math.abs(correlation))
+
+    let website = 'test4-result1.html';
+
+    window.setTimeout(() => {
+      location.href = website + '#' + diff.toString();
+    }, 10);
+
+  }
+
+</script>
+</body>
+</html>
