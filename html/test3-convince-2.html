@@ -18,7 +18,7 @@
     <div class="col-10" >
       <div class="card">
         <div class="card-header">
-          Test 4
+          Test 3
         </div>
         <div class="card-body">
           <h5 class="card-title">On a scale of 1-5, how confident were you about answering the previous question?</h5>
@@ -90,12 +90,17 @@
 
   let start = Date.now();
   let time = start.toLocaleString();
-  let count = parseInt(window.location.hash.substring(1));
+  let count = parseInt(window.location.hash.substring(window.location.hash.indexOf("#") + 1, window.location.hash.indexOf("l")));
+  let level = parseInt(window.location.hash.substring(window.location.hash.indexOf("l") + 1, window.location.hash.indexOf("d")));
+  let nDown = parseInt(window.location.hash.substring(window.location.hash.indexOf("d") + 1, window.location.hash.indexOf("s")));
+  let step = parseInt(window.location.hash.substring(window.location.hash.indexOf("s") + 1, window.location.hash.indexOf("r")));
+  let reversal = parseInt(window.location.hash.substring(window.location.hash.indexOf("r") + 1, window.location.hash.indexOf("p")));
+  let preResult = parseInt(window.location.hash.substring(window.location.hash.indexOf("p") + 1));
 
   function submitFunctionC1() {
 
 
-    let website = 'test4-l1.html';
+    let website = 'test3-l2.html';
     let end = Date.now();
     let response = end - start;
     let temp = count + 1000;
@@ -136,14 +141,14 @@
       });
     }
     count = count + 1;
-    if (count == 461) {
+    if (count == 301) {
       window.setTimeout(() => {
-        location.href = 'final.html';
+        location.href = 'training4.html';
       }, 1000);
     }
     else{
       window.setTimeout(() => {
-        location.href = website + '#' + count.toString();
+        location.href = website + '#' + count.toString() + 'l' + level.toString() + 'd' + nDown.toString() + 's' + step.toString() + 'r' + reversal.toString() + 'p' + preResult.toString();
       }, 1000);
     }
   }
