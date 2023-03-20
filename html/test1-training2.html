@@ -22,14 +22,14 @@
         </div>
         <div class="card-body">
           <h5 class="card-title" style="font-style: italic">For training</h5>
-          <h5 class="card-title">Result: Correct answer!</h5>
+          <h5 class="card-title">Choose one point</h5>
           <p class="card-text">
-            <img src="image/Task1-traing1-result.png" class="img-fluid" style="border: 2px solid #555;">
+            Which outlier is further to the center of the cluster?(Click the point you decide to select)
           </p>
-          <p class="card-text" style="margin-top: 30px;">
-
-          </p>
-          <a href="test1-training2.html" class="btn btn-primary">Try it again</a>
+          <p class="card-text">
+          <div class="chart-container" id="chartContainer" style="position: relative; height:400px; width:400px">
+            <canvas id="myChart"></canvas>
+          </div>
         </div>
         <div class="card-footer text-muted">
           Note:
@@ -54,7 +54,83 @@
 
 <script>
 
+  let start = Date.now();
+  // do something
 
+
+  const dataN = 1;
+
+
+  const ratioN = 4;
+
+  // config
+  const config = {
+    type: 'scatter',
+    data: dataTask1Training[dataN],
+    options: {
+      scales: {
+        x: {
+          grid: {
+            display: false,
+          },
+          type: 'linear',
+          position: 'bottom',
+        },
+        y: {
+          grid: {
+            display: false,
+          },
+        },
+      },
+      events: [],
+      animation: false,
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          display: false
+        }
+      }
+
+    }
+  };
+
+  // render init block
+
+  const ctx = document.getElementById('myChart')
+  const myChart = new Chart(
+          ctx,
+          config
+  );
+
+  document.getElementById('chartContainer').style.width = ratios[ratioN].width;
+  document.getElementById('chartContainer').style.height = ratios[ratioN].height;
+
+
+  function clickHandler(click) {
+    const points = myChart.getElementsAtEventForMode(click, 'nearest', { intersect:true }, true);
+    if (points.length){
+      const firstPoint = points[0];
+      console.log(firstPoint);
+      const value = myChart.data.datasets[firstPoint.datasetIndex].data[firstPoint.index].status;
+      const content = myChart.data.datasets[firstPoint.datasetIndex].data[firstPoint.index];
+      console.log(content)
+      let website = '';
+      if (value == true){
+        website = 'test1-true-2.html';
+      }
+      else{
+        website = 'test1-false-2.html';
+      }
+
+      window.setTimeout(() => {
+        location.href = website;
+      }, 1000);
+
+    }
+  }
+
+  ctx.onclick = clickHandler;
 
 </script>
 </body>

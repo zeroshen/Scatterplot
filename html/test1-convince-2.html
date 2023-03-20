@@ -112,33 +112,36 @@
         stamp: time,
       });
     }
-    if ($('#inlineRadio2').is(':checked')) {
+    else if ($('#inlineRadio2').is(':checked')) {
       set(ref(db, temp.toString() + "-" + time), {
         content: 2,
         time: response,
         stamp: time,
       });
     }
-    if ($('#inlineRadio3').is(':checked')) {
+    else if ($('#inlineRadio3').is(':checked')) {
       set(ref(db, temp.toString() + "-" + time), {
         content: 3,
         time: response,
         stamp: time,
       });
     }
-    if ($('#inlineRadio4').is(':checked')) {
+    else if ($('#inlineRadio4').is(':checked')) {
       set(ref(db, temp.toString() + "-" + time), {
         content: 4,
         time: response,
         stamp: time,
       });
     }
-    if ($('#inlineRadio5').is(':checked')) {
+    else if ($('#inlineRadio5').is(':checked')) {
       set(ref(db, temp.toString() + "-" + time), {
         content: 5,
         time: response,
         stamp: time,
       });
+    }
+    else{
+      return
     }
     count = count + 1;
     if (count == 101) {

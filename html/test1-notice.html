@@ -21,15 +21,12 @@
           Test 1
         </div>
         <div class="card-body">
-          <h5 class="card-title" style="font-style: italic">For training</h5>
-          <h5 class="card-title">Result: Correct answer!</h5>
-          <p class="card-text">
-            <img src="image/Task1-traing1-result.png" class="img-fluid" style="border: 2px solid #555;">
-          </p>
-          <p class="card-text" style="margin-top: 30px;">
+          <h5 class="card-title">Now, the next trial will be the real study task, please answer the questions as accurately
+            and as quickly as you can. </h5>
+          <h5 class="card-title">We will use your responses for our scientific research.</h5>
 
-          </p>
-          <a href="test1-training2.html" class="btn btn-primary">Try it again</a>
+          <button type="button" class="btn btn-primary mb-3" style="margin-top: 40px;" onclick="submitFunctionC1();">I Understand</button>
+
         </div>
         <div class="card-footer text-muted">
           Note:
@@ -50,9 +47,18 @@
 <!-- d3 -->
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script src="../js/firebase.js" type="module"></script>
-<script src="../js/helper.js"></script>
+<script src="../js/helper2.js"></script>
 
 <script>
+
+
+  function submitFunctionC1() {
+
+
+    let website = 'test1-l1.html';
+
+    location.href = website;
+  }
 
 
 
