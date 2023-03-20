@@ -22,9 +22,9 @@
                 </div>
                 <div class="card-body">
                     <h5 class="card-title" style="font-style: italic">For training</h5>
-                    <h5 class="card-title">Result: Correct! </h5>
+                    <h5 class="card-title">Compare</h5>
                     <p class="card-text">
-                        The left scatterplot has 100 points, the right scatterplot has 120 points.
+                        Which scatterplot has more points?
                     </p>
                     <p class="card-text">
 
@@ -33,16 +33,15 @@
                             <div class="chart-container" id="chartContainer" style="position: relative; height:400px; width:400px">
                                 <canvas id="myChart"></canvas>
                             </div>
+                            <button type="button" class="btn btn-primary mb-3" style="margin: 40px;" onclick="submitFunctionT2();">Left One</button>
                         </div>
                         <div class="col-6">
                             <div class="chart-container" id="chartContainer2" style="position: relative; height:400px; width:400px">
                                 <canvas id="myChart2"></canvas>
                             </div>
+                            <button type="button" class="btn btn-primary mb-3" style="margin: 40px;" onclick="submitFunctionT22();">Right One</button>
                         </div>
                     </div>
-                    <p class="card-text" style="margin-top: 30px;">
-                    </p>
-                    <a href="test2-training-2.html" class="btn btn-primary">Try it again</a>
                 </div>
                 <div class="card-footer text-muted">
                     Note:
@@ -69,7 +68,7 @@
 
     let start = Date.now();
 
-    const dataN = 2;
+    const dataN = 1;
 
     const ratioN = 0;
 
@@ -160,9 +159,49 @@
     document.getElementById('chartContainer2').style.width = ratios[ratioN].width;
     document.getElementById('chartContainer2').style.height = ratios[ratioN].height;
 
-    let pointsNumber1 = dataTask2Training[1].datasets[0].data.length;
+    let pointsNumber1 = dataTask2Training[0].datasets[0].data.length;
     let pointsNumber2 = dataTask2Training[dataN].datasets[0].data.length
     const compare = pointsNumber1 > pointsNumber2
+
+    console.log(pointsNumber1)
+    console.log(pointsNumber2)
+
+
+    function submitFunctionT2() {
+
+
+        let website = '';
+
+        if (compare == true){
+            website = 'test2-true-2.html';
+        }
+        else{
+            website = 'test2-false-2.html';
+        }
+
+        window.setTimeout(() => {
+            location.href = website;
+        }, 1000);
+
+
+    }
+
+    function submitFunctionT22() {
+
+        let website = '';
+
+        if (compare == false){
+            website = 'test2-true-2.html';
+        }
+        else{
+            website = 'test2-false-2.html';
+        }
+
+        window.setTimeout(() => {
+            location.href = website;
+        }, 1000);
+
+    }
 
 
 </script>

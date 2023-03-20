@@ -35,7 +35,7 @@
           </div>
           <p class="card-text" id="show" style="margin-top: 30px;">
           </p>
-          <a href="test4-l1.html" class="btn btn-primary">Start Test</a>
+          <a href="test4-notice.html" class="btn btn-primary">Start Test</a>
         </div>
 
         <div class="card-footer text-muted">
@@ -115,25 +115,8 @@
   let correlation = dataTask4Level1[dataN].datasets[0].data[0].correlation
   console.log(correlation)
 
-  document.getElementById('show').innerHTML = "The difference is: " + parseFloat(window.location.hash.substring(1));
+  document.getElementById('show').innerHTML = "The correction is -0.752. The difference of two absolute values is: " + parseFloat(window.location.hash.substring(1));
 
-
-
-  function submitFunction() {
-
-
-    let inputValue = document.getElementById("input-value").value;
-
-
-    let diff = Math.abs(Math.abs(parseFloat(inputValue)) - Math.abs(correlation))
-
-    let website = 'test4-result1.html';
-
-    window.setTimeout(() => {
-      location.href = website + '#' + diff.toString();
-    }, 10);
-
-  }
 
 </script>
 </body>

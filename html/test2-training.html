@@ -75,7 +75,7 @@
     // config
     const config = {
         type: 'scatter',
-        data: dataTask2Training[1],
+        data: dataTask2Training[0],
         options: {
             scales: {
                 x: {
@@ -159,9 +159,12 @@
     document.getElementById('chartContainer2').style.width = ratios[ratioN].width;
     document.getElementById('chartContainer2').style.height = ratios[ratioN].height;
 
-    let pointsNumber1 = dataTask2Training[1].datasets[0].data.length;
+    let pointsNumber1 = dataTask2Training[0].datasets[0].data.length;
     let pointsNumber2 = dataTask2Training[dataN].datasets[0].data.length
     const compare = pointsNumber1 > pointsNumber2
+
+    console.log(pointsNumber1)
+    console.log(pointsNumber2)
 
 
     function submitFunctionT2() {

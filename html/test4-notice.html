@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Testing - Part 1</title>
+
+  <!-- Load CSS libraries -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<div class="container-fluid">
+  <div class="row justify-content-center ">
+    <div class="col-10" >
+      <div class="card">
+        <div class="card-header">
+          Test 4
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">Now, the next trial will be the real study task, please answer the questions as accurately
+            and as quickly as you can. </h5>
+          <h5 class="card-title">We will use your responses for our scientific research.</h5>
+
+          <button type="button" class="btn btn-primary mb-3" style="margin-top: 40px;" onclick="submitFunctionC1();">I Understand</button>
+
+        </div>
+        <div class="card-footer text-muted">
+          Note:
+          <li> This study requires Chrome, Firefox, or Edge.</li>
+          <li> Please maximize your browser window for the entire period of this study.</li>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- Load JS libraries: jQuery, bootstrap, D3 -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+<!-- d3 -->
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="../js/firebase.js" type="module"></script>
+<script src="../js/helper2.js"></script>
+
+<script>
+
+
+  function submitFunctionC1() {
+
+
+    let website = 'test4-l1.html';
+
+    location.href = website;
+  }
+
+
+
+</script>
+</body>
+</html>
