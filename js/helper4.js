@@ -1397,24 +1397,24 @@ const dataTask4Level1 = [
 
 const ratios = [
     {
-        height: "424px",
-        width: "424px",
-    },
-    {
-        height: "300px",
-        width: "600px",
+        height: "848px",
+        width: "848px",
     },
     {
         height: "600px",
-        width: "300px",
+        width: "1200px",
     },
     {
-        height: "520px",
-        width: "346px",
+        height: "1200px",
+        width: "600px",
     },
     {
-        height: "346px",
-        width: "520px",
+        height: "1040px",
+        width: "692px",
+    },
+    {
+        height: "692px",
+        width: "1040px",
     },
 ]
 
