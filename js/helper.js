@@ -5181,24 +5181,24 @@ const dataTask1 = [
 
 const ratios = [
     {
-        height: "848px",
-        width: "848px",
+        height: "707px",
+        width: "707px",
     },
     {
-        height: "600px",
-        width: "1200px",
+        height: "500px",
+        width: "1000px",
     },
     {
-        height: "1200px",
-        width: "600px",
+        height: "1000px",
+        width: "500px",
     },
     {
-        height: "1040px",
-        width: "692px",
+        height: "948px",
+        width: "632px",
     },
     {
-        height: "692px",
-        width: "1040px",
+        height: "632px",
+        width: "948px",
     },
 ]
 

@@ -18,19 +18,21 @@
     <div class="col-10" >
       <div class="card">
         <div class="card-header">
-          Test 1
+          Test 4
         </div>
         <div class="card-body">
           <h5 class="card-title" style="font-style: italic">For training</h5>
-          <h5 class="card-title">Result: Correct answer!</h5>
-          <p class="card-text">
-            <img src="image/Task1-training1-result.png" class="img-fluid" style="border: 2px solid #555; width:60%; height: 60%;">
+          <h5 class="card-title">Result: </h5>
+          <p class="card-text" id="show">
           </p>
-          <p class="card-text" style="margin-top: 30px;">
 
-          </p>
-          <a href="test1-training2.html" class="btn btn-primary">Try it again</a>
+          <div class="chart-container" id="chartContainer" style="position: relative; height:400px; width:400px">
+            <canvas id="myChart"></canvas>
+          </div>
+
+          <a href="test4-notice.html" class="btn btn-primary">Start Test</a>
         </div>
+
         <div class="card-footer text-muted">
           Note:
           <li> This study requires Chrome, Firefox, or Edge.</li>
@@ -50,10 +52,65 @@
 <!-- d3 -->
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script src="../js/firebase.js" type="module"></script>
-<script src="../js/helper.js"></script>
+<script src="../js/helper4.js"></script>
 
 <script>
 
+  let start = Date.now();
+
+  const dataN = 11;
+
+  const ratioN = 0;
+
+  // config
+  const config = {
+    type: 'scatter',
+    data: dataTask4Level1[dataN],
+    options: {
+      scales: {
+        x: {
+          grid: {
+            display: false,
+          },
+          type: 'linear',
+          position: 'bottom',
+        },
+        y: {
+          grid: {
+            display: false,
+          },
+        },
+      },
+      events: [],
+      animation: false,
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          display: false
+        }
+      }
+
+    }
+  }
+
+  // render init block
+
+  const ctx = document.getElementById('myChart')
+
+  const myChart = new Chart(
+          ctx,
+          config
+  );
+
+  document.getElementById('chartContainer').style.width = ratios[ratioN].width;
+  document.getElementById('chartContainer').style.height = ratios[ratioN].height;
+
+
+  let correlation = dataTask4Level1[dataN].datasets[0].data[0].correlation
+  console.log(correlation)
+
+  document.getElementById('show').innerHTML = "The correction is -0.752. The difference of two absolute values is: " + parseFloat(window.location.hash.substring(1));
 
 
 </script>

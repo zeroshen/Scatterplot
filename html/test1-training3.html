@@ -22,14 +22,14 @@
         </div>
         <div class="card-body">
           <h5 class="card-title" style="font-style: italic">For training</h5>
-          <h5 class="card-title">Result: Unfortunately, it is an incorrect answer.</h5>
+          <h5 class="card-title">Choose one point</h5>
           <p class="card-text">
-            <img src="image/Task1-training2-result.png.png" class="img-fluid" style="border: 2px solid #555;">
+            Which outlier is further to the center of the cluster?(Click on the point you decide to select)
           </p>
-          <p class="card-text" style="margin-top: 30px;">
-
-          </p>
-          <a href="test1-training3.html" class="btn btn-primary">Try it again</a>
+          <p class="card-text">
+          <div class="chart-container" id="chartContainer" style="position: relative; height:400px; width:400px">
+            <canvas id="myChart"></canvas>
+          </div>
         </div>
         <div class="card-footer text-muted">
           Note:
@@ -75,11 +75,17 @@
           },
           type: 'linear',
           position: 'bottom',
+          max: 100,
+          min: 0,
+          stepSize: 10,
         },
         y: {
           grid: {
             display: false,
           },
+          max: 100,
+          min: 0,
+          stepSize: 10,
         },
       },
       events: [],
@@ -117,10 +123,10 @@
       console.log(content)
       let website = '';
       if (value == true){
-        website = 'test1-true.html';
+        website = 'test1-true-3.html';
       }
       else{
-        website = 'test1-false.html';
+        website = 'test1-false-3.html';
       }
 
       window.setTimeout(() => {

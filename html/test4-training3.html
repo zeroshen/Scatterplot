@@ -18,19 +18,30 @@
     <div class="col-10" >
       <div class="card">
         <div class="card-header">
-          Test 1
+          Test 4
         </div>
         <div class="card-body">
           <h5 class="card-title" style="font-style: italic">For training</h5>
-          <h5 class="card-title">Result: Unfortunately, it is an incorrect answer.</h5>
+          <h5 class="card-title">Identify Correlation</h5>
           <p class="card-text">
-            <img src="image/Task1-training2-result.png.png" class="img-fluid" style="border: 2px solid #555;">
+            What is the correlation in this scatterplot? (Absolute value)
           </p>
-          <p class="card-text" style="margin-top: 30px;">
+          <p class="card-text">
+            (The answer should be in the ranges: (0.45, 1.00). Give your answer to 2 decimal places(0.01))
+          </p>
 
-          </p>
-          <a href="test1-training3.html" class="btn btn-primary">Try it again</a>
+          <div class="chart-container" id="chartContainer" style="position: relative; height:400px; width:400px">
+            <canvas id="myChart"></canvas>
+          </div>
         </div>
+        <form class="row g-3" style="padding-left: 20px; margin-top: 30px; margin-inside: 50px;">
+          <div class="col-auto">
+            <input type="text" class="form-control" id="input-value" aria-label="Correlation" placeholder="Correlation" autocomplete="off">
+          </div>
+          <div class="col-auto">
+            <button type="button" class="btn btn-primary mb-3" onclick="submitFunction();">Next</button>
+          </div>
+        </form>
         <div class="card-footer text-muted">
           Note:
           <li> This study requires Chrome, Firefox, or Edge.</li>
@@ -50,23 +61,20 @@
 <!-- d3 -->
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script src="../js/firebase.js" type="module"></script>
-<script src="../js/helper.js"></script>
+<script src="../js/helper4.js"></script>
 
 <script>
 
   let start = Date.now();
-  // do something
 
-
-  const dataN = 0;
-
+  const dataN = 11;
 
   const ratioN = 0;
 
   // config
   const config = {
     type: 'scatter',
-    data: dataTask1Training[dataN],
+    data: dataTask4Level1[dataN],
     options: {
       scales: {
         x: {
@@ -93,11 +101,12 @@
       }
 
     }
-  };
+  }
 
   // render init block
 
   const ctx = document.getElementById('myChart')
+
   const myChart = new Chart(
           ctx,
           config
@@ -107,30 +116,26 @@
   document.getElementById('chartContainer').style.height = ratios[ratioN].height;
 
 
-  function clickHandler(click) {
-    const points = myChart.getElementsAtEventForMode(click, 'nearest', { intersect:true }, true);
-    if (points.length){
-      const firstPoint = points[0];
-      console.log(firstPoint);
-      const value = myChart.data.datasets[firstPoint.datasetIndex].data[firstPoint.index].status;
-      const content = myChart.data.datasets[firstPoint.datasetIndex].data[firstPoint.index];
-      console.log(content)
-      let website = '';
-      if (value == true){
-        website = 'test1-true.html';
-      }
-      else{
-        website = 'test1-false.html';
-      }
+  let correlation = dataTask4Level1[dataN].datasets[0].data[0].correlation
+  console.log(correlation)
 
-      window.setTimeout(() => {
-        location.href = website;
-      }, 1000);
 
-    }
+
+  function submitFunction() {
+
+
+    let inputValue = document.getElementById("input-value").value;
+
+
+    let diff = Math.abs(Math.abs(parseFloat(inputValue)) - Math.abs(correlation)).toFixed(2)
+
+    let website = 'test4-result3.html';
+
+    window.setTimeout(() => {
+      location.href = website + '#' + diff.toString();
+    }, 10);
+
   }
-
-  ctx.onclick = clickHandler;
 
 </script>
 </body>

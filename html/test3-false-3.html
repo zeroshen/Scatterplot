@@ -18,18 +18,34 @@
     <div class="col-10" >
       <div class="card">
         <div class="card-header">
-          Test 1
+          Test 3
         </div>
         <div class="card-body">
           <h5 class="card-title" style="font-style: italic">For training</h5>
           <h5 class="card-title">Result: Unfortunately, it is an incorrect answer.</h5>
           <p class="card-text">
-            <img src="image/Task1-training2-result.png.png" class="img-fluid" style="border: 2px solid #555;">
+            The correlation of the left scatterplot is 0.749, the correlation of the right scatterplot is 0.83.
           </p>
+          <p class="card-text">
+            Compare two absolute values, the right one is stronger.
+          </p>
+
+          <div class="row">
+            <div class="col-6">
+              <div class="chart-container" id="chartContainer" style="position: relative; height:400px; width:400px">
+                <canvas id="myChart"></canvas>
+              </div>
+            </div>
+            <div class="col-6">
+              <div class="chart-container" id="chartContainer2" style="position: relative; height:400px; width:400px">
+                <canvas id="myChart2"></canvas>
+              </div>
+            </div>
+          </div>
           <p class="card-text" style="margin-top: 30px;">
 
           </p>
-          <a href="test1-training3.html" class="btn btn-primary">Try it again</a>
+          <a href="test3-notice.html" class="btn btn-primary">Start Test</a>
         </div>
         <div class="card-footer text-muted">
           Note:
@@ -50,23 +66,20 @@
 <!-- d3 -->
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script src="../js/firebase.js" type="module"></script>
-<script src="../js/helper.js"></script>
+<script src="../js/helper3.js"></script>
 
 <script>
 
   let start = Date.now();
-  // do something
 
-
-  const dataN = 0;
-
+  const dataN = 3;
 
   const ratioN = 0;
 
   // config
   const config = {
     type: 'scatter',
-    data: dataTask1Training[dataN],
+    data: dataTask3Training[2],
     options: {
       scales: {
         x: {
@@ -93,11 +106,12 @@
       }
 
     }
-  };
+  }
 
   // render init block
 
   const ctx = document.getElementById('myChart')
+
   const myChart = new Chart(
           ctx,
           config
@@ -106,31 +120,57 @@
   document.getElementById('chartContainer').style.width = ratios[ratioN].width;
   document.getElementById('chartContainer').style.height = ratios[ratioN].height;
 
-
-  function clickHandler(click) {
-    const points = myChart.getElementsAtEventForMode(click, 'nearest', { intersect:true }, true);
-    if (points.length){
-      const firstPoint = points[0];
-      console.log(firstPoint);
-      const value = myChart.data.datasets[firstPoint.datasetIndex].data[firstPoint.index].status;
-      const content = myChart.data.datasets[firstPoint.datasetIndex].data[firstPoint.index];
-      console.log(content)
-      let website = '';
-      if (value == true){
-        website = 'test1-true.html';
+  const config2 = {
+    type: 'scatter',
+    data: dataTask3Training[dataN],
+    options: {
+      scales: {
+        x: {
+          grid: {
+            display: false,
+          },
+          type: 'linear',
+          position: 'bottom',
+        },
+        y: {
+          grid: {
+            display: false,
+          },
+        },
+      },
+      events: [],
+      animation: false,
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          display: false
+        }
       }
-      else{
-        website = 'test1-false.html';
-      }
-
-      window.setTimeout(() => {
-        location.href = website;
-      }, 1000);
 
     }
   }
 
-  ctx.onclick = clickHandler;
+  // render init block
+
+  const ctx2 = document.getElementById('myChart2')
+
+  const myChart2 = new Chart(
+          ctx2,
+          config2
+  );
+
+  document.getElementById('chartContainer2').style.width = ratios[ratioN].width;
+  document.getElementById('chartContainer2').style.height = ratios[ratioN].height;
+
+  let tendency1 = Math.abs(dataTask3Training[0].datasets[0].data[0].correlation)
+  let tendency2 = Math.abs(dataTask3Training[dataN].datasets[0].data[0].correlation)
+  console.log(tendency1)
+  console.log(tendency2)
+  const compare = tendency1 > tendency2
+
+
+
 
 </script>
 </body>
