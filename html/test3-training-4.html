@@ -22,12 +22,9 @@
         </div>
         <div class="card-body">
           <h5 class="card-title" style="font-style: italic">For training</h5>
-          <h5 class="card-title">Result: Correct answer!</h5>
+          <h5 class="card-title">Compare</h5>
           <p class="card-text">
-            The correlation of the left scatterplot is 0.749, the correlation of the right scatterplot is 0.83.
-          </p>
-          <p class="card-text">
-            Compare two absolute values, the right one is stronger.
+            Which scatterplot has stronger correlation?
           </p>
           <p class="card-text">
 
@@ -36,16 +33,15 @@
               <div class="chart-container" id="chartContainer" style="position: relative; height:400px; width:400px">
                 <canvas id="myChart"></canvas>
               </div>
+              <button type="button" class="btn btn-primary mb-3" style="margin: 40px;" onclick="submitFunctionT3();">Left One</button>
             </div>
             <div class="col-6">
               <div class="chart-container" id="chartContainer2" style="position: relative; height:400px; width:400px">
                 <canvas id="myChart2"></canvas>
               </div>
+              <button type="button" class="btn btn-primary mb-3" style="margin: 40px;" onclick="submitFunctionT32();">Right One</button>
             </div>
           </div>
-          <p class="card-text" style="margin-top: 30px;">
-          </p>
-          <a href="test3-training-4.html" class="btn btn-primary">Try it again</a>
         </div>
         <div class="card-footer text-muted">
           Note:
@@ -72,14 +68,14 @@
 
   let start = Date.now();
 
-  const dataN = 3;
+  const dataN = 1;
 
   const ratioN = 2;
 
   // config
   const config = {
     type: 'scatter',
-    data: dataTask3Training[2],
+    data: dataTask3Training[0],
     options: {
       scales: {
         x: {
@@ -174,10 +170,10 @@
     let website = '';
 
     if (compare == true){
-      website = 'test3-true.html';
+      website = 'test3-true-4.html';
     }
     else{
-      website = 'test3-false.html';
+      website = 'test3-false-4.html';
     }
 
     window.setTimeout(() => {
@@ -191,10 +187,10 @@
     let website = '';
 
     if (compare == false){
-      website = 'test3-true.html';
+      website = 'test3-true-4.html';
     }
     else{
-      website = 'test3-false.html';
+      website = 'test3-false-4.html';
     }
 
     window.setTimeout(() => {
