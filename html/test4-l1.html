@@ -66,6 +66,12 @@
 
   let start = Date.now();
 
+  let count = 401;
+  let time = start.toLocaleString();
+  if (window.location.hash.substring(1)){
+    count = parseInt(window.location.hash.substring(1));
+  }
+
   const dataN = Math.floor(Math.random() * 24);
 
   const ratioN = Math.floor(Math.random() * 5);
@@ -129,12 +135,9 @@
 
     let website = '';
     let diff = Math.abs(Math.abs(parseFloat(inputValue)) - Math.abs(correlation)).toFixed(2)
-    let count = 401;
+
     console.log(diff)
     let time = start.toLocaleString();
-    if (window.location.hash.substring(1)){
-      count = parseInt(window.location.hash.substring(1)) + 1;
-    }
 
     set(ref(db, count.toString() + "-" + time), {
       dataset: dataN,
